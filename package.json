@@ -1,0 +1,20 @@
+{
+  "name": "almundo",
+  "version": "1.0.0",
+  "description": "Ejercicio1 : FullStack Mobile para almundo.com (API Rest en Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Alexander Forero López",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
